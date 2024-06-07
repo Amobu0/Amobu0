@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 자바, 스프링 부트를 공부하는 송상도입니다.</li></li>배우기를 좋아합니다.</li></li>실력있는 개발자가 되고 싶습니다.</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 자바, 스프링 부트를 공부하는 000입니다.</li></li>배우기를 좋아합니다.</li></li>실력있는 개발자가 되고 싶습니다.</li></li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
