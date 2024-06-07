@@ -25,7 +25,7 @@
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       </div>     
-    </div>
+    
     
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
