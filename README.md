@@ -25,8 +25,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Amobu0&custom_title=Amobu0's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amobu0&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdehgogo104)](https://solved.ac/kdehgogo104)
+          /> <img src="http://mazassumnida.wtf/api/generate_badge?boj=kdehgogo104)](https://solved.ac/kdehgogo104"/>
 </div> 
     </div>
     
