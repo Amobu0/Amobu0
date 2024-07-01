@@ -1,5 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=72d73c&height=180&text=백엔드%20개발자%20&animation=&fontColor=ffffff&fontSize=50" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!😊&fontSize=90&fontAlignY=40" />
     </div>
     <div align= "center">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h1> <br> 
